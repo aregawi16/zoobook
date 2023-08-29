@@ -1,0 +1,48 @@
+# Visual Studio / Rider / VS Code
+.vs/
+.vscode/
+*.sln
+*.suo
+*.user
+*.csproj.user
+*.userprefs
+*.log
+[Dd]ebug/
+[Rr]elease/
+
+# Build output
+/bin/
+/obj/
+
+# Class library-specific
+**/bin/
+**/obj/
+*.dll
+*.pdb
+*.exe
+
+# NuGet packages
+*.nuget.props
+*.nuget.targets
+**/packages/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+
+# StyleCop
+StyleCopReport.xml
+
+# Resharper (JetBrains Rider)
+/_ReSharper.*/
+*.sln.DotSettings.user
+
+# Build directories
+[Bb]uild/
+
+# NuGet
+*.nupkg
