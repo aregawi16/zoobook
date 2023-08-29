@@ -1,0 +1,12 @@
+D:\Zoobook\Zoobook.API\Zoobook.Domain\bin\Debug\net6.0\Zoobook.Domain.deps.json
+D:\Zoobook\Zoobook.API\Zoobook.Domain\bin\Debug\net6.0\Zoobook.Domain.dll
+D:\Zoobook\Zoobook.API\Zoobook.Domain\bin\Debug\net6.0\Zoobook.Domain.pdb
+D:\Zoobook\Zoobook.API\Zoobook.Domain\obj\Debug\net6.0\Zoobook.Domain.csproj.AssemblyReference.cache
+D:\Zoobook\Zoobook.API\Zoobook.Domain\obj\Debug\net6.0\Zoobook.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zoobook\Zoobook.API\Zoobook.Domain\obj\Debug\net6.0\Zoobook.Domain.AssemblyInfoInputs.cache
+D:\Zoobook\Zoobook.API\Zoobook.Domain\obj\Debug\net6.0\Zoobook.Domain.AssemblyInfo.cs
+D:\Zoobook\Zoobook.API\Zoobook.Domain\obj\Debug\net6.0\Zoobook.Domain.csproj.CoreCompileInputs.cache
+D:\Zoobook\Zoobook.API\Zoobook.Domain\obj\Debug\net6.0\Zoobook.Domain.dll
+D:\Zoobook\Zoobook.API\Zoobook.Domain\obj\Debug\net6.0\refint\Zoobook.Domain.dll
+D:\Zoobook\Zoobook.API\Zoobook.Domain\obj\Debug\net6.0\Zoobook.Domain.pdb
+D:\Zoobook\Zoobook.API\Zoobook.Domain\obj\Debug\net6.0\ref\Zoobook.Domain.dll

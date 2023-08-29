@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Zoobook.Application/1.0.0": {
+        "dependencies": {
+          "Zoobook.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Zoobook.Application.dll": {}
+        }
+      },
+      "Zoobook.Domain/1.0.0": {
+        "runtime": {
+          "Zoobook.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zoobook.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Zoobook.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

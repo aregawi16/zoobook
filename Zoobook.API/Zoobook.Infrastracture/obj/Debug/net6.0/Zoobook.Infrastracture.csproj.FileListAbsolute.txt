@@ -1,0 +1,17 @@
+D:\Zoobook\Zoobook.API\Zoobook.Infrastracture\bin\Debug\net6.0\Zoobook.Infrastracture.deps.json
+D:\Zoobook\Zoobook.API\Zoobook.Infrastracture\bin\Debug\net6.0\Zoobook.Infrastracture.runtimeconfig.json
+D:\Zoobook\Zoobook.API\Zoobook.Infrastracture\bin\Debug\net6.0\Zoobook.Infrastracture.dll
+D:\Zoobook\Zoobook.API\Zoobook.Infrastracture\bin\Debug\net6.0\Zoobook.Infrastracture.pdb
+D:\Zoobook\Zoobook.API\Zoobook.Infrastracture\bin\Debug\net6.0\Zoobook.Domain.dll
+D:\Zoobook\Zoobook.API\Zoobook.Infrastracture\bin\Debug\net6.0\Zoobook.Domain.pdb
+D:\Zoobook\Zoobook.API\Zoobook.Infrastracture\obj\Debug\net6.0\Zoobook.Infrastracture.csproj.AssemblyReference.cache
+D:\Zoobook\Zoobook.API\Zoobook.Infrastracture\obj\Debug\net6.0\Zoobook.Infrastracture.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zoobook\Zoobook.API\Zoobook.Infrastracture\obj\Debug\net6.0\Zoobook.Infrastracture.AssemblyInfoInputs.cache
+D:\Zoobook\Zoobook.API\Zoobook.Infrastracture\obj\Debug\net6.0\Zoobook.Infrastracture.AssemblyInfo.cs
+D:\Zoobook\Zoobook.API\Zoobook.Infrastracture\obj\Debug\net6.0\Zoobook.Infrastracture.csproj.CoreCompileInputs.cache
+D:\Zoobook\Zoobook.API\Zoobook.Infrastracture\obj\Debug\net6.0\Zoobook.Infrastracture.csproj.CopyComplete
+D:\Zoobook\Zoobook.API\Zoobook.Infrastracture\obj\Debug\net6.0\Zoobook.Infrastracture.dll
+D:\Zoobook\Zoobook.API\Zoobook.Infrastracture\obj\Debug\net6.0\refint\Zoobook.Infrastracture.dll
+D:\Zoobook\Zoobook.API\Zoobook.Infrastracture\obj\Debug\net6.0\Zoobook.Infrastracture.pdb
+D:\Zoobook\Zoobook.API\Zoobook.Infrastracture\obj\Debug\net6.0\Zoobook.Infrastracture.genruntimeconfig.cache
+D:\Zoobook\Zoobook.API\Zoobook.Infrastracture\obj\Debug\net6.0\ref\Zoobook.Infrastracture.dll
