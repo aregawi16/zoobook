@@ -12,5 +12,23 @@ namespace Zoobook.Domain.Model
         public string FirstName { get; set; }
         public string MiddleName { get; set; }
         public string LastName { get; set; }
+        public string FullName => GetFullName();
+
+        private string GetFullName()
+        {
+            var fullNameBuilder = new StringBuilder();
+            fullNameBuilder.Append(FirstName);
+
+            if (!string.IsNullOrEmpty(MiddleName))
+            {
+                fullNameBuilder.Append(" ");
+                fullNameBuilder.Append(MiddleName);
+            }
+
+            fullNameBuilder.Append(" ");
+            fullNameBuilder.Append(LastName);
+
+            return fullNameBuilder.ToString();
+        }
     }
 }

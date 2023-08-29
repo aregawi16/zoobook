@@ -42,11 +42,12 @@ namespace Infrastructure.Repository
 
         }
 
-        public async Task UpdateAsync(TEntity entity)
+        public async Task UpdateAsync(TEntity entity, TEntity exEntity)
         {
             try
             {
 
+                _context.Entry(exEntity).State = EntityState.Detached;
                 _context.Entry(entity).State = EntityState.Modified;
                 _context.Update(entity);
             }

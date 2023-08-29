@@ -14,7 +14,7 @@ namespace Zoobook.Application.EmployeeService
         Task<Employee> GetByIdAsync(int id);
         Task<Employee> AddAsync(Employee employee);
         Task AddRangeAsync(IList<Employee> employees);
-        Task UpdateAsync(Employee employee);
+        Task UpdateAsync(Employee employee, Employee exEmployee);
         Task RemoveAsync(int id);
         Task RemoveRange(IList<int> ids);
 

@@ -63,13 +63,13 @@ namespace Zoobook.API.Controllers
             {
                 return BadRequest(ModelState);
             }
-            //var result = await _employeeService.GetByIdAsync(id);
-            //if (result == null)
-            //{
-            //    return NotFound("Employee Not Found");
-            //}
+            var result = await _employeeService.GetByIdAsync(id);
+            if (result == null)
+            {
+                return NotFound("Employee Not Found");
+            }
 
-            await _employeeService.UpdateAsync(employee);
+            await _employeeService.UpdateAsync(employee, result);
             return NoContent();
         }
 

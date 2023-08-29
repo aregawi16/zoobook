@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -12,7 +13,7 @@ namespace Domain.IRepository
         Task<TEntity> GetByIdAsync(int id);
         Task<TEntity> AddAsync(TEntity entity);
         Task AddRangeAsync(IList<TEntity> entities);
-        Task UpdateAsync(TEntity entity);
+        Task UpdateAsync(TEntity newEntity, TEntity exisEntity);
         Task RemoveAsync(int id);
         Task RemoveRange(IList<int> ids);
     }

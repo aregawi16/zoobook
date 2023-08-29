@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 using Zoobook.Domain.Model;
@@ -37,9 +38,9 @@ namespace Zoobook.Application.EmployeeService
 
         }
 
-        public async Task UpdateAsync(Employee entity)
+        public async Task UpdateAsync(Employee entity, Employee existedItem)
         {
-            _unitOfWork.employeeRepository.UpdateAsync(entity);
+            _unitOfWork.employeeRepository.UpdateAsync(entity, existedItem);
         }
 
         public async Task RemoveAsync(int id)
